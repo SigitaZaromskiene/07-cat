@@ -1,0 +1,16 @@
+{
+  "name": "07-funny-dog",
+  "version": "1.0.0",
+  "description": "07-funny-dog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4107",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sigita",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
