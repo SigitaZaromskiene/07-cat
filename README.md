@@ -1,4 +1,4 @@
-Simple page error design using HTML and CSS 
+Cat
 
 _website design project_
 
@@ -6,16 +6,15 @@ _website design project_
 
 ## 🌟 About
 
-This project is for educational porpuses only. 
+This project is for educational porpuses only.
 
 Site published at: https://sigitazaromskiene.github.io/07-cat/
 
-
 ## 🎯 Project features/goals
 
--   Github pages
--   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and [CSS (style)](https://www.w3schools.com/html/html_css.asp)
--   [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Github pages
+- basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and [CSS (style)](https://www.w3schools.com/html/html_css.asp)
+- [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## 🧰 Getting Started
 
@@ -38,21 +37,21 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
-    ```sh
-    git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
-    ```
+   ```sh
+   git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
+   ```
 2. Install NPM packages
-    ```sh
-    npm i
-    ```
-    or
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm i
+   ```
+   or
+   ```sh
+   npm install
+   ```
 3. Run the server
-    ```sh
-    npm run dev
-    ```
+   ```sh
+   npm run dev
+   ```
 
 ### 🧪 Running tests
 
