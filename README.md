@@ -1,4 +1,4 @@
-Cat project
+Cat
 
 _website design project_
 
