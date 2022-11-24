@@ -15,6 +15,7 @@ Site published at: https://sigitazaromskiene.github.io/07-cat/
 - Github pages
 - basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and [CSS (style)](https://www.w3schools.com/html/html_css.asp)
 - [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-  CSS classes
 
 ## 🧰 Getting Started
 
